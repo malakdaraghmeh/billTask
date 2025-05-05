@@ -3,11 +3,10 @@ button{
     border: 0;
     font-weight: 700;
 }
-
-li.friendName:hover{
-    background-color:#fff4e6;
+.friendName.selected {
+    background-color: #fff4e6;
     border-radius: 10px;
-}
+  }
 .selectbtn{
     background-color: #ffa94d;
     border-radius: 7px;
@@ -25,8 +24,5 @@ input[type="number"]::-webkit-outer-spin-button {
   -webkit-appearance: auto;
   margin: 0;
 }
-.addForm {
-    background-color:#fff4e6; 
-    border-radius: 7px;
-}
+
 

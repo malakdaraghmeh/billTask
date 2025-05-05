@@ -1,0 +1,18 @@
+.btnAddForm {
+    background-color: #FFA94D;
+    color: #343a40;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+.btnAddForm:hover{
+    background-color: #ff922b;  
+}
+.addForm{
+    width: 60%;
+    min-Width: 400px;
+    background-Color:#fff4e6; ;
+    padding: 20px;
+    border-Radius: 12px;
+}
+

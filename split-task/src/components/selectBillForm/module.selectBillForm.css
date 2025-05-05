@@ -1,0 +1,16 @@
+.formBill{
+    background-Color:#fff4e6; 
+    padding: 3.2rem 4rem;
+    border-radius: 7px;
+    width: 30%;
+}
+.btnspilt{
+    background-color: #FFA94D;
+    color: #343a40;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+.btnspilt:hover{
+    background-color: #ff922b;
+}
